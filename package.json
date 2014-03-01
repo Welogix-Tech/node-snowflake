@@ -1,0 +1,21 @@
+{
+  "name": "node-snowflake",
+  "version": "0.0.1",
+  "description": "a node.js clone for twitter snowflake",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/kurten/node-snowflake.git"
+  },
+  "keywords": [
+    "node.js",
+    "javascript",
+    "snowflake",
+    "twitter"
+  ],
+  "author": "Kurten Chan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kurten/node-snowflake/issues"
+  }
+}
